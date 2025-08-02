@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define heap_size 100000  // 1 mb heap size
+#define heap_size 1000000  // 1 mb heap size
 #define max_allocations 100 // maximum number of allocations
 
 char main_memory[heap_size]; 
@@ -224,3 +224,4 @@ int main()
 
     return 0;
 }
+
