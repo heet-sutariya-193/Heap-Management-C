@@ -1,4 +1,4 @@
-# Heap-Management-C
+# Low-Level Memory Allocator
 
 This project implements a basic custom memory allocator in C, providing a simplified approach to memory management within a pre-defined heap space. It allows users to allocate and free memory blocks and observe the heap's status.
 
